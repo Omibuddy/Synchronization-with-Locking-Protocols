@@ -74,4 +74,3 @@ To complete your testing:
 
 The output shows PostgreSQL's implementation of isolation levels is working as expected, with higher isolation levels preventing more anomalies but increasing the likelihood of transaction rollbacks.
 
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
